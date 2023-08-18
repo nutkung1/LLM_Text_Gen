@@ -1,0 +1,30 @@
+[Q] What is the Optimist NFT?
+[A] The Optimist NFT is a fully customizable digital avatar that allows you to showcase your personality and build your onchain identity. Powered by digital certificates called attestations, the Optimist NFT is one of the first applications built on top of the AttestationStation, an attestation smart contract on Optimism. The Optimist NFT is a fully customizable digital avatar that allows you to showcase your personality and build your onchain identity. With the Optimist NFT, you have the power to create a one-of-a-kind avatar that represents your unique personality and interests. The vision is that this NFT represents you as an individual Optimist, and evolves to reflect your identity and reputation across the city as you interact with different projects and protocols. 
+Note: This is the page for users. If you are an application developer who'd like to learn more about the AttestationStation, see here.
+[Q] Who can mint an Optimist NFT?
+[A] The Optimist NFT is in Beta and currently only voters in RetroPGF 2 can mint. Starting in early 2023, each month, several hundred active addresses will be invited to mint based on their participation in the Optimism Collective and data recorded in the AttestationStation.
+Want to be able to mint in the future? Follow @OptimismFND on Twitter or visit our documentation to find products people are building that help you build your reputation on Optimism.
+Eventually, Optimist NFTs will be widely available to mint and customize as the Optimism Collective grows to welcome the entire crypto family.
+Will there be more traits for the Optimist NFT?
+Yes! In the future, new traits will be able to be unlocked based on your participation in the Optimism ecosystem!
+[Q] Can I edit my Optimist NFT?
+[A] Yes! During the first phases of the Optimist NFT roll out, please make sure you're using the same device that you minted on to ensure your traits are returned correctly. 
+[Q] Where can I view all of the Optimist NFTs?
+[A] Checkout the collection on OpenSea: https://opensea.io/collection/optimist-nft
+[Q] How many Optimist NFTs can I mint?
+[A] The Optimist NFT is meant to visually represent your participation in the Optimism ecosystem. You can mint one per address. 
+[Q] How many Optimist NFTs are available?
+[A] There is no limit to the number of NFTs available.
+[Q] Are Optimist NFTs transferrable?
+[A] No, Optimist NFTs are non-transferrable.
+[Q] What inspired the artwork?
+[A] We previously announced the Optimism Collective: a large-scale experiment in digital democratic governance with a mission of realigning the internet with its constituents.
+In keeping with the overarching theme of building the city Optimism, there are many different thematic sets, each of which tells a part of the Optimism story.
+[Q] Who created the genesis artwork?
+[A] The art for the Optimist NFT was created by Cody Miles (www.codymiles.com), a Tokyo-based illustrator.
+[Q] Where can I learn more about the IP of the Optimist NFT?
+[A] Each image associated with an Optimist NFT is dedicated to the public domain under the Creative Commons Zero (CC0) license. You can learn more about the IP of the Optimist NFT and the terms governing the Optimist NFT and the AttestationStation in the Optimist NFT & AttestationStation Terms & Conditions.
+[Q] How do I learn more about the Optimism Collective?
+[A] A great introduction to Optimism Governance can be found here. To dive deeper into the Optimism Collective visit our docs.
+[Q] How do I learn more about the AttestationStation?
+[A] To start off visit our developer-focused help article. To dive deeper into the AttestationStation, visit our docs.
